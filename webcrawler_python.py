@@ -1,5 +1,5 @@
 from selenium import webdriver
-from xvfbwrapper import Xvfb
+from xvfbwrapper import Xvfb #https://github.com/cgoldberg/xvfbwrapper
 import time
 
 display = Xvfb() # gerar um ambiente virtual
