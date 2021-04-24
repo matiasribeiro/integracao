@@ -117,8 +117,7 @@ def carga_csv_no_mongoDB(  my_df,
                           database_name = 'licitacoesecontratos',
                           collection_name = 'contratosgov',
                           server = 'localhost',
-                          mongodb_port = 27017,
-                          chunk_size = 100):
+                          mongodb_port = 27017):
     
     #------------------------------------------------------------------------------
     # US3710, US3711, US3713, US3714
