@@ -12,7 +12,7 @@ import time
 from urllib.request import urlopen
 from pymongo import MongoClient
 
-def df_constratos_governo_pb():
+def df_contratos_governo_pb():
     #------------------------------------------------------------------------------
     # US3710
     # AUTOR: MATIAS RIBEIRO
